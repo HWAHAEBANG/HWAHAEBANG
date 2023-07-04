@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=1c768f&height=200&section=header&text=&fontSize=90" /></div>
+
 
 <br>
 <h3 align="center"> 📚 tech stack 📚</h3>
