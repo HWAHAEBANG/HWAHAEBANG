@@ -59,6 +59,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HWAHAEBANG&layout=compact"><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=HWAHAEBANG&show_icons=true">
+<h3> ※ git.config 이메일 불일치로 인해 실제 작업한 커밋 중 상당수가 반영되지 않았습니다.</h3>
 
 
 
